@@ -1,0 +1,9 @@
+{
+  "name": "async-mutex",
+  "description": "An asynchronous analog to mutexes",
+  "version": "0.0.1",
+  "contributors": [
+    "Jordan Rife <jrife0@gmail.com>"
+  ],
+  "license": "MIT"
+}
